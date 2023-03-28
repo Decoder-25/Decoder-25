@@ -1,4 +1,4 @@
-![Header](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![Header](https://github.com/Decoder-25/Decoder-25/blob/main/Banner.gif)
 <h1 align="center">Hi, I'm Disha Biswas.</h1>
 <h3 align="center">I love to create and experiment.</h3>
 <img align="right" height="340px" width="430px" src="https://www.apple.com/newsroom/images/passions/education/apple_coding-programs-for-educators-and-students_07092020.jpg.landing-big_2x.jpg"/>
