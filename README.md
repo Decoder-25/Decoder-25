@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django and Machine Learning.**
 
-- 👨‍💻 I’m currently working on **MERN Stack.**
+- 👨‍💻 I’m currently working on **Frontend Development**
 
 - 🤝 I’m looking for help with **Backend Development.**
 
