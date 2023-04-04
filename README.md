@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=decoder-25&label=Profile%20views&color=0e75b6&style=plastic" alt="decoder-25" /> </p>
 
-- 📝I'm in my pre final year of B.Tech in **Computer Science.**
+- 📝I'm now in my 3rd year of B.Tech in **Computer Science.**
 
 - 🌱 I’m currently learning **Django and Machine Learning.**
 
