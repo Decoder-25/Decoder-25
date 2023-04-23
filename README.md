@@ -8,11 +8,11 @@
 
 - 📝I'm now in my 3rd year of B.Tech in **Computer Science.**
 
-- 🌱 I’m currently learning **Django and Machine Learning.**
+- 🌱 I’m currently learning **Machine Learning.**
 
-- 👨‍💻 I’m currently working on **Frontend Development**
+- 👨‍💻 I’m currently working on **Backend Development.**
 
-- 🤝 I’m looking for help with **Backend Development.**
+- 🤝 I’m looking for help with **Fullstack Development.**
 
 
 <p align="left">
