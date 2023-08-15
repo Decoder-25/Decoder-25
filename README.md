@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning.**
 
-- 👨‍💻 I’m working on **Backend Projects.** these days.
+- 👨‍💻 I’m working on **Backend Projects** these days.
 
 - 🤝 I’m looking for help with **Fullstack Development.**
 
