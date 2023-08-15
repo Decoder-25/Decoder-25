@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=decoder-25&label=Profile%20views&color=0e75b6&style=plastic" alt="decoder-25" /> </p>
 
-- 📝I'm now in my 3rd year of B.Tech in **Computer Science.**
+- 📝I'm now in my 4th year of B.Tech in **Computer Science.**
 
 - 🌱 I’m currently learning **Machine Learning.**
 
-- 👨‍💻 I’m currently working on **Backend Development.**
+- 👨‍💻 I’m working on **Backend Projects.** these days.
 
 - 🤝 I’m looking for help with **Fullstack Development.**
 
