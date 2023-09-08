@@ -8,11 +8,11 @@
 
 - 📝I'm now in my 4th year of B.Tech in **Computer Science.**
 
-- 🌱 I’m currently learning **Machine Learning.**
+- 🌱 I’m currently learning **Fullstack Development.**
 
 - 👨‍💻 I’m working on **Backend Projects** these days.
 
-- 🤝 I’m looking for help with **Fullstack Development.**
+- 🤝 I’m looking for help with **Frontend Development.**
 
 
 <p align="left">
