@@ -6,7 +6,7 @@
 
 *Full-Stack Developer · AWS Certified Developer Associate · MSc Computer Science (UK)*
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <img src="https://komarev.com/ghpvc/?username=decoder-25&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views"/>
 
@@ -26,7 +26,7 @@ I believe in code that tells a story, designs that breathe, and those tiny detai
 
 <br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🌸 Tech Stack
 
@@ -70,7 +70,7 @@ I believe in code that tells a story, designs that breathe, and those tiny detai
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## ☁️ AWS Cloud Expertise
 
@@ -114,7 +114,7 @@ I believe in code that tells a story, designs that breathe, and those tiny detai
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🌱 Currently Cultivating
 
@@ -134,43 +134,31 @@ Personal Projects:
 
 ```yaml
 Learning & Growth:
-  - Cloud-native architectures
-  - Advanced React patterns
-  - Microservices with Node.js
+  - Building cloud-based projects on AWS
+  - Understanding cloud architecture patterns
+  - Contributing to open source projects
+  - Advanced React patterns & hooks
 ```
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📊 GitHub Journey
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=decoder-25&theme=material-palenight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" width="50%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=decoder-25&theme=material-palenight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" width="100%"/>
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decoder-25&layout=compact&theme=material-palenight&hide_border=true&border_radius=10" alt="Top Languages" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br>
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=decoder-25&bg_color=292d3e&color=c792ea&line=c792ea&point=ffcb6b&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 💌 Let's Connect
 
@@ -189,7 +177,7 @@ I'd love to hear from you! Whether it's about a project, collaboration, or just 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,16&height=2" width="100%">
 
 ### ✨ *"Curiosity made me begin. Consistency makes me grow."* ✨
 
