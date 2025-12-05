@@ -1,88 +1,198 @@
+<div align="center">
+
 ![Banner](https://github.com/Decoder-25/Decoder-25/blob/main/Banner.gif)
 
-<h2 align="center">🌷 Hi, I'm Disha Biswas 🌷</h2>
-<p align="center">Full-Stack Developer · AWS Certified Developer Associate · Curious, Creative & Calm Builder</p>
+# ✨ Hi, I'm Disha Biswas ✨
+
+*Full-Stack Developer · AWS Certified Developer Associate · MSc Computer Science (UK)*
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<img src="https://komarev.com/ghpvc/?username=decoder-25&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile views"/>
+
+</div>
+
+<br>
+
+## 💫 About Me
+
+<img align="right" width="320" src="https://github.com/Decoder-25/Decoder-25/blob/main/coding.png" alt="Coding illustration"/>
+
+I'm Disha — a full-stack developer with an MSc in Computer Science from the UK. I'm drawn to creating experiences that feel effortless and beautiful, where technology fades into the background and the user journey takes center stage.
+
+My path into cloud computing began organically while working on my MSc **Cyber Security Decision Support Tool**. What started as a simple deployment goal evolved into a fascinating journey through AWS, culminating in my **AWS Developer Associate (DVA-C02)** certification.
+
+I believe in code that tells a story, designs that breathe, and those tiny details that transform good into delightful. When I'm not immersed in development, you'll find me wandering through new cities, capturing moments through my lens, and curating memories that deserve to be cherished.
+
+<br clear="right"/>
 
 ---
 
-## 🌸 About Me
+## 🌸 Tech Stack
 
-| | |
-| --- | --- |
-| I'm Disha — a full-stack developer with an MSc in Computer Science (UK). I love understanding *how things work*, creating clean user experiences, and building software that feels intuitive and peaceful.<br><br>While working on my MSc **Cyber Security Decision Support Tool**, I wanted to deploy it online — and that tiny curiosity quietly introduced me to the world of cloud. One step led to another, and I eventually earned my **AWS Developer Associate (DVA-C02)** certification.<br><br>I enjoy soft, minimal UI, gentle colours, and smooth interactions. Outside tech, you’ll often find me exploring new places, taking photos, editing, or collecting cosy moments I want to remember. | <img src="https://github.com/Decoder-25/Decoder-25/blob/main/coding.png" width="260"/> |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### ✨ Frontend Magic
+*Building beautiful, intuitive interfaces*
 
-## 🌷 My Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-I like keeping my tools simple and reliable.
+### 💾 Databases
+*Organizing data with care*
 
-### 💛 Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="34" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="34" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="34" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="34" alt="CSS3"/>
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 💛 Backend & Cloud
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="34" alt="Python"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="34" alt="AWS"/>
-</p>
+</td>
+<td width="50%" valign="top">
 
-### 💛 Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="34" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-</p>
+### 🔧 Backend & APIs
+*Crafting robust server solutions*
 
-### 💛 Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="34" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30" alt="Figma"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="50" alt="NPM"/>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
----
+### 🎨 Creative Tools
+*Designing with intention*
 
-## 🌼 What I’m Exploring
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-- A soft, clean personal portfolio (Next.js + Vercel)  
-- Cloud-based mini projects using AWS  
-- Backend-heavy apps with Node.js  
-- More elegant UI with React
+</td>
+</tr>
+</table>
 
 ---
 
-## 💫 GitHub Snapshot
+## ☁️ AWS Cloud Expertise
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=decoder-25&show_icons=true&theme=default" alt="Disha's GitHub stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decoder-25&layout=compact&theme=default" alt="Top languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=decoder-25&theme=default" alt="GitHub streak"/>
-</p>
+### 🏆 AWS Certified Developer Associate (DVA-C02)
+
+*Architecting scalable, secure cloud solutions*
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### 🚀 Compute & Deployment
+- **EC2** - Virtual servers & scaling
+- **Lambda** - Serverless functions
+- **Elastic Beanstalk** - App deployment
+- **ECS/EKS** - Container orchestration
+
+</td>
+<td width="33%" valign="top">
+
+#### 💾 Storage & Databases
+- **S3** - Object storage solutions
+- **DynamoDB** - NoSQL database
+- **RDS** - Relational databases
+- **ElastiCache** - In-memory caching
+
+</td>
+<td width="33%" valign="top">
+
+#### 🔐 Security & Integration
+- **IAM** - Access management
+- **API Gateway** - RESTful APIs
+- **CloudWatch** - Monitoring & logging
+- **SNS/SQS** - Messaging services
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💌 Connect With Me
+## 🌱 Currently Cultivating
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/disha-biswas-coder/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:bidisha2125@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" alt="Email"/>
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%">
+
+```yaml
+Personal Projects:
+  - Minimalist portfolio with Next.js
+  - Deploying on Vercel
+  - Focus: Clean design & performance
+```
+
+</td>
+<td width="50%">
+
+```yaml
+Learning & Growth:
+  - Cloud-native architectures
+  - Advanced React patterns
+  - Microservices with Node.js
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌻 A Soft Thought
+## 📊 GitHub Journey
 
-<p align="center"><i>✨ Curiosity made me begin. Consistency makes me grow. ✨</i></p>
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=decoder-25&theme=material-palenight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" width="100%"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decoder-25&layout=compact&theme=material-palenight&hide_border=true&border_radius=10" alt="Top Languages" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=decoder-25&bg_color=292d3e&color=c792ea&line=c792ea&point=ffcb6b&area=true&hide_border=true" alt="Activity Graph" width="95%"/>
+
+</div>
+
+---
+
+## 💌 Let's Connect
+
+<div align="center">
+
+I'd love to hear from you! Whether it's about a project, collaboration, or just to say hi ✨
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/disha-biswas-coder/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bidisha2125@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+### ✨ *"Curiosity made me begin. Consistency makes me grow."* ✨
+
+<sub>Built with 💖 and ☕ by Disha</sub>
+
+</div>
