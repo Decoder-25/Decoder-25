@@ -1,89 +1,96 @@
-![Header](https://github.com/Decoder-25/Decoder-25/blob/main/Banner.gif)
+![Banner](https://github.com/Decoder-25/Decoder-25/blob/main/Banner.gif)
 
-<h1 align="center">Hi, I'm Disha Biswas 👋</h1>
-<h3 align="center">Full-Stack Developer | AWS Certified developer | Cloud & Web Enthusiast</h3>
+<h2 align="center">🌷 Hi, I'm Disha Biswas 🌷</h2>
+<p align="center">Full-Stack Developer • AWS Certified Developer Associate • Curious • Creative • Calm Builder</p>
 
-<p align="center">
-  <a href="https://portfolio-website-psi-kohl.vercel.app/" target="_blank"><b>🌐 Visit My Portfolio</b></a>
+<br/>
+
+<img align="right" src="https://github.com/Decoder-25/Decoder-25/blob/main/coding.png" width="300" style="border-radius:12px"/>
+
+## 🌸 About Me
+
+I’m Disha — a full-stack developer with an MSc in Computer Science (UK).  
+I love understanding *how things work*, creating clean user experiences, and building software that feels intuitive and peaceful.
+
+While working on my MSc **Cyber Security Decision Support Tool**, I wanted to deploy it online — and that tiny curiosity quietly introduced me to the world of cloud.  
+One step led to another, and soon I earned my **AWS Developer Associate (DVA-C02)** certification.
+
+I enjoy soft, minimal UI, gentle colours, and smooth interactions.  
+And outside tech, you’ll often find me exploring new places, taking photos, editing, or collecting cosy moments I want to remember.
+
+<br/>
+
+---
+
+## 🌷 My Tech Stack
+
+### 💛 Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="38"/>
 </p>
 
----
-
-## 👩‍💻 About Me
-
-🎓 MSc in Computer Science (UK)  
-⚡ AWS Certified Developer – Associate (DVA-C02)  
-💻 Full-stack development with **React, Next.js, Node.js**  
-☁️ Interested in **Cloud, Scalable Architectures, DevOps, Security**  
-🚀 Building real-world applications & polishing backend skills  
-📸 Outside tech: learning photography, editing, & creating content  
-
----
-
-## 🚀 What I'm Working On  
-- Improving an **end-to-end portfolio website** (Next.js + Vercel)  
-- Cloud-based development using AWS (Lambda, S3, API Gateway)  
-- Building backend-heavy apps with Node.js & Express  
-- Writing clean, maintainable, production-ready code  
-
----
-
-## 🛠️ Tech Stack
-
-### **Frontend**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
-</p>
-
-### **Backend & Cloud**
-<p align="left">
+### 💛 Backend & Cloud
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="38"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38"/>
 </p>
 
-### **Databases**
-<p align="left">
+### 💛 Databases
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
-### **Tools & Other Skills**
-<p align="left">
+### 💛 Tools I Use
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="55"/>
 </p>
+
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+## 🌼 What I’m Working On
+- A soft, clean personal portfolio (Next.js + Vercel)  
+- Cloud-based mini projects using AWS  
+- Backend-heavy apps with Node.js + Express  
+- More elegant UI with React & Tailwind CSS  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=decoder-25&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decoder-25&layout=compact&theme=default" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=decoder-25&theme=default" />
-</p>
+<br/>
 
 ---
 
-## 📫 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/dishabiswas25/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"/>
+## 🌸 GitHub Snapshot
+
+<p align="center">
+  <img width="380" src="https://github-readme-streak-stats.herokuapp.com/?user=decoder-25&theme=default"/>
+</p>
+
+<br/>
+
+---
+
+## 🌷 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/disha-biswas-coder/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="45"/>
   </a>
 </p>
 
----
-
-## 🌼 A Small Thought  
-Curiosity built half of my skills — consistency built the rest.
+<br/>
 
 ---
+
+## 🌻 A Soft Thought
+
+<p align="center">✨ <i>Curiosity made me begin. Consistency makes me grow.</i> ✨</p>
+
+<br/>
