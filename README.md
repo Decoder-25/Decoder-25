@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://github.com/Decoder-25/Decoder-25/blob/main/Banner.gif)
+![Banner](https://github.com/Decoder-25/Decoder-25/blob/main/Magical_GitHub_Banner_Illustration-ezgif.com-video-to-gif-converter.gif)
 
 # ✨ Hi, I'm Disha Biswas ✨
 
