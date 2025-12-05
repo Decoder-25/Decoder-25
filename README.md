@@ -118,7 +118,7 @@ I believe in code that tells a story, designs that breathe, and those tiny detai
 
 ## 🌱 Currently Cultivating
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%">
 
@@ -143,7 +143,6 @@ Learning & Growth:
 </td>
 </tr>
 </table>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📊 GitHub Journey
