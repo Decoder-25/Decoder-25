@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-<img align="right" width="320" src="https://github.com/Decoder-25/Decoder-25/blob/main/coding.png" alt="Coding illustration"/>
+<img align="right" width="320" src="https://github.com/Decoder-25/Decoder-25/blob/main/github_picture.png" alt="Coding illustration"/>
 
 I'm Disha — a full-stack developer with an MSc in Computer Science from the UK. I'm drawn to creating experiences that feel effortless and beautiful, where technology fades into the background and the user journey takes center stage.
 
